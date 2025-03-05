@@ -1,1 +1,2 @@
-from .DeepQ import DeepQNetwork
+from .DeepQ import NaiveDeepQNetwork
+from .ReplayMemory import ReplayMemory
